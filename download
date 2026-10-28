@@ -1,0 +1,8 @@
+# Do not upload proprietary game binaries, memory reports, or backups
+bhd.exe
+*.exe
+*.bak
+*.log
+DoorSkip-Report.txt
+*.dmp
+*.mdmp
